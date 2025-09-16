@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1758053514 source:c:\users\nahue\onedrive\escritorio\tp- ayed\main.c
+	"main.h"
+
+1758024589 c:\users\nahue\onedrive\escritorio\tp- ayed\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mapa.h"
+	"menu.h"
+	"movimientos.h"
+	"ejecucion.h"
+	"estructurasYMacros.h"
+	"cola dinamica.h"
+
+1758036523 c:\users\nahue\onedrive\escritorio\tp- ayed\mapa.h
+	"estructurasYMacros.h"
+
+1758054055 c:\users\nahue\onedrive\escritorio\tp- ayed\estructurasymacros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1758036523 source:c:\users\nahue\onedrive\escritorio\tp- ayed\mapa.c
+	"mapa.h"
+
+1758038563 c:\users\nahue\onedrive\escritorio\tp- ayed\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1758038563 source:c:\users\nahue\onedrive\escritorio\tp- ayed\menu.c
+	"menu.h"
+
+1758056487 source:c:\users\nahue\onedrive\escritorio\tp- ayed\movimientos.c
+	"movimientos.h"
+	"mapa.h"
+
+1758052775 c:\users\nahue\onedrive\escritorio\tp- ayed\movimientos.h
+	"estructurasYMacros.h"
+	"cola dinamica.h"
+	<string.h>
+
+1758037227 source:c:\users\nahue\onedrive\escritorio\tp- ayed\ejecucion.c
+	"ejecucion.h"
+
+1758025428 c:\users\nahue\onedrive\escritorio\tp- ayed\ejecucion.h
+	"estructurasYMacros.h"
+	"mapa.h"
+	"menu.h"
+	"movimientos.h"
+
+1757985049 c:\users\nahue\onedrive\escritorio\tp- ayed\cola dinamica.h
+	<stdlib.h>
+	<string.h>
+
+1757986365 source:c:\users\nahue\onedrive\escritorio\tp- ayed\cola dinamica.c
+	"cola dinamica.h"
+
