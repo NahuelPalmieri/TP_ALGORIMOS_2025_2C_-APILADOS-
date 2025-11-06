@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1762194860 source:c:\users\circo studio\desktop\alg\tp\tp\serv_pac\cola.c
+	"cola.h"
+
+1762194860 c:\users\circo studio\desktop\alg\tp\tp\serv_pac\cola.h
+	<stdlib.h>
+	<string.h>
+
+1762194860 source:c:\users\circo studio\desktop\alg\tp\tp\serv_pac\main.c
+	<stdio.h>
+	<stdlib.h>
+	"servidor_lib.h"
+
+1762374789 c:\users\circo studio\desktop\alg\tp\tp\serv_pac\servidor_lib.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	"cola.h"
+	"arbol.h"
+	"tda_lista_dob.h"
+
+1762378393 source:c:\users\circo studio\desktop\alg\tp\tp\serv_pac\servidor_lib.c
+	"servidor_lib.h"
+
+1762371608 c:\users\circo studio\desktop\alg\tp\tp\serv_pac\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762371669 source:c:\users\circo studio\desktop\alg\tp\tp\serv_pac\arbol.c
+	"arbol.h"
+
+1762377170 c:\users\circo studio\desktop\alg\tp\tp\serv_pac\tda_lista_dob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1762378651 source:c:\users\circo studio\desktop\alg\tp\tp\serv_pac\tda_lista_dob.c
+	"tda_lista_dob.h"
+
+1762386750 source:c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\arbol.c
+	"arbol.h"
+
+1762386750 c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762386750 source:c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\cola.c
+	"cola.h"
+
+1762386750 c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\cola.h
+	<stdlib.h>
+	<string.h>
+
+1762386750 source:c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\main.c
+	<stdio.h>
+	<stdlib.h>
+	"servidor_lib.h"
+
+1762386750 c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\servidor_lib.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	"cola.h"
+	"arbol.h"
+	"tda_lista_dob.h"
+
+1762386750 c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\tda_lista_dob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1762386750 source:c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\servidor_lib.c
+	"servidor_lib.h"
+
+1762388251 source:c:\users\martin palacios\desktop\alg (2)\alg\tp\tp\serv_pac\tda_lista_dob.c
+	"tda_lista_dob.h"
+
+1762391115 source:c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\arbol.c
+	"arbol.h"
+
+1762391114 c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762390547 source:c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\cola.c
+	"cola.h"
+
+1762390547 c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\cola.h
+	<stdlib.h>
+	<string.h>
+
+1762390547 source:c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\main.c
+	<stdio.h>
+	<stdlib.h>
+	"servidor_lib.h"
+
+1762390547 c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\servidor_lib.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	"cola.h"
+	"arbol.h"
+	"tda_lista_dob.h"
+
+1762390547 c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\tda_lista_dob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1762391115 source:c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\servidor_lib.c
+	"servidor_lib.h"
+
+1762391115 source:c:\users\nahue\downloads\alg (4)\alg (2)\alg\tp\tp\serv_pac\tda_lista_dob.c
+	"tda_lista_dob.h"
+
+1762390546 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\cola.c
+	"cola.h"
+
+1762390546 c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\cola.h
+	<stdlib.h>
+	<string.h>
+
+1762390546 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\main.c
+	<stdio.h>
+	<stdlib.h>
+	"servidor_lib.h"
+
+1762390546 c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\servidor_lib.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	"cola.h"
+	"arbol.h"
+	"tda_lista_dob.h"
+
+1762391114 c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762391240 c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\tda_lista_dob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1762391114 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\servidor_lib.c
+	"servidor_lib.h"
+
+1762391114 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\tda_lista_dob.c
+	"tda_lista_dob.h"
+
+1762394130 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\arbol.c
+	"arbol.h"
+
