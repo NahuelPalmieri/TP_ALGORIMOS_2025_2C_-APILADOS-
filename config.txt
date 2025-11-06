@@ -1,6 +1,0 @@
-Filas 10
-Columnas 10
-VidasInicio 3
-MaximoNumeroFantasmas 2
-MaximoNumeroPremios 1
-MaximoVidasExtra 1
