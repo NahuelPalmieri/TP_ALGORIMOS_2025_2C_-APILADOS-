@@ -167,3 +167,45 @@
 1762394130 source:c:\users\nahue\onedrive\escritorio\tp algoritmos y estructuras de datos - apilados\serv_pac\arbol.c
 	"arbol.h"
 
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\arbol.c
+	"arbol.h"
+
+1762812607 c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\cola.c
+	"cola.h"
+
+1762812607 c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\cola.h
+	<stdlib.h>
+	<string.h>
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"servidor_lib.h"
+
+1762812607 c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\servidor_lib.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	"cola.h"
+	"arbol.h"
+	"tda_lista_dob.h"
+
+1762812607 c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\tda_lista_dob.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\servidor_lib.c
+	"servidor_lib.h"
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\servidor\tda_lista_dob.c
+	"tda_lista_dob.h"
+

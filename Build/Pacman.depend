@@ -525,3 +525,20 @@
 1762396381 source:c:\users\nahue\onedrive\escritorio\tp_algorimos_2025_2c_{apilados}\pacman\main.c
 	"Pacman.h"
 
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\build\cola.c
+	"Pacman.h"
+
+1762812607 c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\build\pacman.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<winsock2.h>
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\build\main.c
+	"Pacman.h"
+
+1762812607 source:c:\users\circo studio\documents\github\tp_algorimos_2025_2c_-apilados-\build\pacman.c
+	"Pacman.h"
+
