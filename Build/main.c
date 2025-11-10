@@ -1,5 +1,5 @@
 #include "Pacman.h"
-
+#define CONFIGURACIONES "configuracion.txt"
 
 #define TAM_NOMBRE 11
 #define CANT_RANK 5
@@ -16,7 +16,8 @@ int cargarDatos(tMostrarRank * vec, char * cad);
 
 int main(int argc, char* argv[]) {
 
-    char* archivoConfig = argv[1];
+    //char* archivoConfig = argv[1]; --> por esto no funcionaba.
+    char* archivoConfig = CONFIGURACIONES;
     char linea[64];
     int opcion, cond, i;
     char cadRank[]="RANKING";
