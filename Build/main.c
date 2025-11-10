@@ -16,7 +16,7 @@ int cargarDatos(tMostrarRank * vec, char * cad);
 
 int main(int argc, char* argv[]) {
 
-    //char* archivoConfig = argv[1]; --> por esto no funcionaba.
+    //char* archivoConfig = argv[1]; --> aca estaba el error profe, el uso de argumentos al main.
     char* archivoConfig = CONFIGURACIONES;
     char linea[64];
     int opcion, cond, i;
